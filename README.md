@@ -3,7 +3,7 @@
 Este projeto apresenta uma análise de Business Intelligence focada na gestão de gastos e comportamento de fornecedores, utilizando o dataset público *Wide World Importers*. O objetivo é identificar padrões de concentração financeira, sazonalidade e volatilidade nas transações.
 
 ##  Dashboard de BI
-![Dashboard de Fornecedores](insira-aqui-o-link-da-imagem-após-o-upload)
+![Dashboard de Fornecedores](https://github.com/JessicaCarnietto/analise-de-fornecedores-wwimporters/blob/main/Dashboard.jpg)
 
 ##  Objetivos de Negócio
 A análise foi desenhada para responder a perguntas estratégicas:
